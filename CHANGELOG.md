@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.0 — 2026-07-21
+
+- **合入算账模型**：`breakeven.py` / `profit_model.py`（plan|run|iron）/ `quack_score.py`
+- 新增 `references/profit-model.md`；输出强制【算账】块
+- 主流程：位置诊断 + 保本线/房租铁律/回本压力并行
+
 ## 0.1.3 — 2026-07-20
 
 - 视觉改走 **Banana 中转站 Image2（gpt-image-2）**
