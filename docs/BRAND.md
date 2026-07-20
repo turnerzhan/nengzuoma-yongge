@@ -71,14 +71,19 @@
 
 ## 4. 视觉资产
 
-| 文件 | 用途 |
-|------|------|
-| `logo.jpg` | 砸章冲击，头像 / 角标 |
-| `banner.jpg` | 仓库封面、横版封面 |
-| `viral-uncle.jpg` | 话题向封面、怒指镜头 |
-| `viral-x.jpg` | 「禁止开店」情绪图 |
-| `poster-hero.html` | 横版文字海报（截图传播） |
-| `poster-square.html` | 方图海报（抖音/小红书） |
+**主生成通道：Banana 中转站 · Image2（`gpt-image-2`）**  
+脚本：`scripts/gen_banana_assets.py`（读 `projects/qian/.env` 的 `BANANA_API_KEY`）
+
+| 文件 | 用途 | 来源 |
+|------|------|------|
+| `logo.png` | 砸章 Logo / 头像 | Banana Image2 |
+| `cover-banner.jpg` | 仓库横封面 | Banana Image2 |
+| `hook-card.jpg` | 话题方图 / 切片封面 | Banana Image2 |
+| `poster-hero.png` | 中文大字横海报 | HTML 精确字 + 截图 |
+| `poster-square.png` | 中文方海报 | 同上 |
+
+**不要用**：风景写实街景、空城日落、无冲突的「高级灰」插画。  
+**要**：砸章、红叉、警戒条、漫画冲击、贴纸混乱、高对比。
 
 ### 色感
 
@@ -89,7 +94,8 @@
 
 ### 风格关键词
 
-夸张 · 印章 · 警戒线 · 漫画冲击 · 高对比 · 少灰字  
+夸张 · 印章 · 警戒线 · 漫画冲击 · 高对比 · 少灰字 · **禁风景照**  
+
 
 ---
 

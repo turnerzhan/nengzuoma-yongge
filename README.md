@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/logo.jpg" width="160" alt="能做吗？勇哥" />
+  <img src="docs/assets/logo.png" width="180" alt="能做吗？勇哥" />
 </p>
 
 <h1 align="center">能做吗？勇哥</h1>
@@ -16,49 +16,38 @@
 </p>
 
 <p align="center">
-  <a href="#30-秒懂"><img src="https://img.shields.io/badge/餐饮创业-反诈天花板-111?style=flat-square" /></a>
-  <a href="#安装"><img src="https://img.shields.io/badge/Agent-Skill-7C1C1C?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/话题-勇哥说做不了-dc2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/视觉-Banana_Image2-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agent-Skill-111?style=flat-square" />
   <img src="https://img.shields.io/badge/License-MIT-0A0A0A?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="docs/assets/poster-hero.png" width="100%" alt="能做吗？勇哥 海报" />
+  <img src="docs/assets/cover-banner.jpg" width="100%" alt="封面" />
 </p>
 
 <p align="center">
-  <img src="docs/assets/banner.jpg" width="100%" alt="banner" />
+  <img src="docs/assets/poster-hero.png" width="100%" alt="中文大字海报" />
 </p>
 
 ---
 
-## 先骂一句再介绍
+## 先骂一句
 
-> **别急着加盟。**  
-> **别急着交转让费。**  
-> **别用全家积蓄给房东送钱。**
-
-今年餐饮门店卷到飞起，朋友圈全是「0 加盟费 / 6 个月回本 / 总部全包」。  
-**信一句，亏一套。**
+> **别急着加盟。别急着交转让费。别用全家积蓄给房东送钱。**
 
 「能做吗？勇哥」干一件很不讨喜的事：
 
 # **在你掏钱之前，先把你劝退。**
 
-勇哥原话放这：
+> 勇哥说能做的，不能保证赚钱。  
+> **勇哥说做不了的，一定亏钱。**
 
-> **勇哥说能做的，不能保证赚钱。**  
-> **勇哥说不能做的，一定亏钱。**
-
-我们把这套判断，做成 Agent 一加载就会用的 **Skill**。  
-不是聊天陪聊。是 **验铺行刑队**。
+不是陪聊。是 **验铺行刑队**。
 
 <p align="center">
-  <img src="docs/assets/poster-square.png" width="48%" alt="方图海报" />
-  <img src="docs/assets/viral-uncle.jpg" width="48%" alt="viral" />
-</p>
-<p align="center">
-  <img src="docs/assets/viral-x.jpg" width="70%" alt="stop" />
+  <img src="docs/assets/hook-card.jpg" width="55%" alt="话题封面" />
+  <img src="docs/assets/poster-square.png" width="42%" alt="方图" />
 </p>
 
 ---
@@ -67,179 +56,106 @@
 
 | 你丢进来 | 它砸回去 |
 |----------|----------|
-| 门头 / 街景照片 | 楼层？台阶？遮挡？棺材铺？一眼毒打 |
-| 地址（如台州腾达路 699 号） | 高德扫同业 / 学校 / 小区 / 商场 / 大牌 |
-| 「想开奶茶 / 汉堡 / 加盟 60 万」 | **红黄绿 + 为什么 + 换业态** |
-
-### 真实气质输出（不是广告话术）
+| 门头 / 街景照 | 楼层？台阶？遮挡？棺材铺？毒打 |
+| 地址 | 高德扫同业 / 学校 / 大牌（百度兜底） |
+| 「加盟 60 万全国首家汉堡」 | 🔴 + 为什么 + 今天就停 |
 
 ```text
-你：加盟全国首家××汉堡，加盟 19.8 万，总投入 60 万+
-    位置在路桥腾达路，旁边有吾悦
+你：全国首家××汉堡，总投入 60 万+，吾悦边上
 
-哥：🔴 做不了。至少这笔加盟今天就停。
-
-    1. 「全国首家」= 你是小白鼠，不是加盟商
-    2. 汉堡是中年破产四件套之一
-    3. 同走廊塔斯汀 / 麦当劳 / 华莱士在那，你拿什么打？
-    4. 60 万进去，日保本会把你按在地上摩擦
-
-    类比：第四代汉堡那种故事 —— 开业第 N 天花篮还在，转让贴上了。
+哥：🔴 做不了。这笔加盟今天就停。
+    · 「全国首家」= 你是小白鼠
+    · 汉堡四件套高压区
+    · 同走廊塔斯汀/麦当劳/华莱士，你拿什么打？
 ```
 
-**爽点不在「教你发财」，在「拦你倾家荡产」。**  
-这才是能传播的东西。
+**爽点不在教你发财，在拦你倾家荡产。**
 
 ---
 
-## 为什么有话题度（给你剪视频用）
+## 标题党武器库（直接抄）
 
-直接抄这些钩子：
+1. 拍一张门头，3 分钟骂醒你  
+2. 勇哥说做不了：这座铺别签  
+3. 全国首家？先把 60 万放下  
+4. 别用全家积蓄给房东送钱  
+5. 高德扫完街，勇哥判死刑  
+6. 餐饮创业反诈：验铺比配方重要  
 
-| 钩子 | 用法 |
-|------|------|
-| **能做吗？勇哥** | 标题本体，搜索记忆点 |
-| **勇哥说做不了** | 评论区复读、二创金句 |
-| **拍门头 = 验死刑** | 演示视频开场 |
-| **全国首家三个字出现就跑** | 加盟劝退切片 |
-| **别用血汗钱给房东送钱** | 结尾 CTA |
-| **红灯一票否决** | 系列内容结构 |
-
-### 一句话电梯稿（夸张版，放心说）
-
-> 这是餐饮圈的 **验孕棒**：  
-> 两分钟出结果——**有没有中奖（中招）**。  
-> 红了？恭喜，你刚省下几十万学费。
-
-> 这是开店前的 **行刑队 Skill**：  
-> 地图当法医，勇哥当法官，你的门头当被告。
-
-> 别人教你怎么开店。  
-> 我们教你 **怎么别开**。
+**电梯稿（狠）**  
+别人教你怎么开店。我们教你 **怎么别开**。  
+这是开店前的 **验孕棒**：两分钟看你中没中招。
 
 ---
 
-## 它到底牛在哪
+## 架构（一句话）
 
 ```text
-        📱 一张门头照
-              │
-    ┌─────────┴─────────┐
-    ▼                   ▼
- 看图毒打            高德扫街
- 台阶/楼层/遮挡      大牌/学校/同业
-    │                   │
-    └─────────┬─────────┘
-              ▼
-        勇哥方法论（唯一大脑）
-              │
-              ▼
-     🔴做不了 / 🟡谨慎 / 🟢罕见
-         + 换业态 + 下一步
+门头照 + 地址
+    → 看图毒打 + 高德(主)/百度(备) 供血
+    → 勇哥方法论唯一大脑
+    → 🔴🟡🟢 + 换业态 + 下一步
 ```
-
-- **判断权只在勇哥规则**，地图只是供血，不让算法给你灌「建议开店」迷魂汤  
-- **百度兜底**：高德挂了还能查；大牌有没有贴脸，可再抽一刀  
-- **加盟场景一样杀**：全国首家、天价加盟、汉堡奶茶四件套，默认往红灯踩  
-
-母体方法论社区整理可参考（无官方关联）：  
-[yongge-restaurant-skill](https://github.com/Astro-wen/yongge-restaurant-skill)
 
 ---
 
-## 安装（30 秒上车）
+## 安装
 
 ```bash
 git clone https://github.com/turnerzhan/nengzuoma-yongge.git
+# → ~/.grok/skills/nengzuoma-yongge/  或其它 Agent skills 目录
 ```
 
-扔进 Agent Skills 目录，例如 Grok：
+| 依赖 | |
+|------|--|
+| 多模态看图 | 必须 |
+| 高德 MCP | 强推 |
+| 百度 MCP | 兜底 |
+| Banana Image2 | 仅再生成视觉物料时需要 |
 
-```text
-~/.grok/skills/nengzuoma-yongge/
+触发：`/nengzuoma-yongge` · 「能做吗」· 「勇哥看这个铺」· 直接砸门头图
+
+---
+
+## 视觉物料（Image2）
+
+| 文件 | 用途 |
+|------|------|
+| `docs/assets/logo.png` | 砸章 Logo（Banana `gpt-image-2`） |
+| `docs/assets/cover-banner.jpg` | 横版封面 |
+| `docs/assets/hook-card.jpg` | 话题方图 |
+| `docs/assets/poster-hero.png` | 中文大字横海报 |
+| `docs/assets/poster-square.png` | 中文方海报 |
+
+重生成：
+
+```bash
+# 需 projects/qian/.env 里 BANANA_API_KEY
+python scripts/gen_banana_assets.py
 ```
 
-| 依赖 | 要不要 |
-|------|--------|
-| 能看图的模型 | **要**，不然门头白拍 |
-| 高德 MCP | **强推**，没有就瞎 |
-| 百度 MCP | 推荐，兜底 / 抽检 |
-| Pillow | 可选，读照片 GPS |
+---
 
-### 怎么喊醒它
+## 仓库 ID 说明
 
-- `/nengzuoma-yongge`
-- 「能做吗」
-- 「勇哥看这个铺」
-- 直接砸门头图
+GitHub **仓库名不吃汉字**（会剥成 `-`）。  
+品牌叫 **能做吗？勇哥**，克隆用 `nengzuoma-yongge`。
 
 ---
 
-## 仓库里有啥
+## 边界
 
-```text
-nengzuoma-yongge/
-├── SKILL.md                 # 行刑协议（Agent 必读）
-├── README.md                # 你正在被洗脑的这一页
-├── docs/
-│   ├── BRAND.md             # 怎么说话、怎么冲流量
-│   └── assets/
-│       ├── logo.jpg         # 砸章 logo
-│       ├── banner.jpg       # 封面大图
-│       ├── viral-uncle.jpg  # 话题封面
-│       ├── viral-x.jpg      # 禁止开店视觉
-│       ├── poster-hero.html # 可导出的横版海报
-│       └── poster-square.html
-├── references/              # 红线 / 街景分 / 业态矩阵 / 输出模板
-└── scripts/parse_image_location.py
-```
-
-浏览器打开 `docs/assets/poster-*.html` → 截图 = 现成传播物料。
-
----
-
-## 品牌怎么喊（抓流量版）
-
-| | |
-|--|--|
-| **大名** | 能做吗？勇哥 |
-| **外号** | 验铺行刑队 / 开店验孕棒 / 劝退天花板 |
-| **禁用** | 「官方勇哥」「保证回本」「稳赚」 |
-| **人设** | 站小老板，打加盟商话术，打房东滤镜 |
-
-详情见 [`docs/BRAND.md`](docs/BRAND.md)。
-
----
-
-## 关于仓库英文名
-
-GitHub **仓库名吃掉汉字**（实测会变成 `---`）。  
-所以：
-
-- 传播叫 **能做吗？勇哥**  
-- 克隆用 `nengzuoma-yongge`  
-
-别杠，平台的锅。
-
----
-
-## 免责（很重要，但我们说人话）
-
-这是 **决策辅助**，不是投资建议，不是法律意见。  
-绿灯 ≠ 稳赚；红灯 = 方法论上劝你别送。  
-最终签字的是你。  
-与「勇哥」本人及原机构 **无官方关系**。
-
----
+决策辅助，非投资/法律建议。  
+与勇哥本人及原机构 **无官方关系**。  
+方法论可参考社区整理 [yongge-restaurant-skill](https://github.com/Astro-wen/yongge-restaurant-skill)（非官方关联）。
 
 ## License
 
-MIT。拿去改，拿去接，拿去让更多人少亏钱。
+MIT
 
 ---
 
 <p align="center">
-  <b style="font-size:1.4em">能做吗？勇哥。</b><br/><br/>
-  能做的，蹲点再上。<br/>
-  <b>做不了的 —— 今天就停。</b>
+  <b>能做吗？勇哥。</b><br/>
+  做不了的 —— <b>今天就停。</b>
 </p>
