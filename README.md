@@ -1,20 +1,29 @@
 <p align="center">
-  <img src="docs/assets/logo.jpg" width="120" alt="能做吗？勇哥" />
+  <img src="docs/assets/logo.jpg" width="160" alt="能做吗？勇哥" />
 </p>
 
 <h1 align="center">能做吗？勇哥</h1>
 
 <p align="center">
-  <strong>门头一拍 · 红黄绿判生死</strong><br/>
-  用勇哥餐饮方法论武装的 Agent Skill<br/>
-  选址 × 业态 × 加盟劝退 — 专为小经营者反踩坑
+  <b>拍一张门头，3 分钟骂醒你。</b><br/>
+  位置烂 · 业态错 · 加盟坑 —— <b>该红就红，绝不灌鸡汤</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/turnerzhan/nengzuoma-yongge/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-0A0A0A?style=flat-square" alt="MIT" /></a>
-  <a href="#安装"><img src="https://img.shields.io/badge/Agent-Skill-7C1C1C?style=flat-square" alt="Skill" /></a>
-  <img src="https://img.shields.io/badge/地图-高德主·百度备-1F2937?style=flat-square" alt="Maps" />
-  <img src="https://img.shields.io/badge/version-0.1.0-C4A35A?style=flat-square" alt="version" />
+  <img src="https://img.shields.io/badge/🔴_做不了-B91C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟡_谨慎-CA8A04?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟢_罕见能做-15803D?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="#30-秒懂"><img src="https://img.shields.io/badge/餐饮创业-反诈天花板-111?style=flat-square" /></a>
+  <a href="#安装"><img src="https://img.shields.io/badge/Agent-Skill-7C1C1C?style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/话题-勇哥说做不了-dc2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-0A0A0A?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="docs/assets/poster-hero.png" width="100%" alt="能做吗？勇哥 海报" />
 </p>
 
 <p align="center">
@@ -23,193 +32,214 @@
 
 ---
 
-## 为什么做这个
+## 先骂一句再介绍
 
-餐饮看起来很火。  
-对小经营者来说，火的是话题，冷的是现金流。
+> **别急着加盟。**  
+> **别急着交转让费。**  
+> **别用全家积蓄给房东送钱。**
 
-大多数店死在开业前没算清的账里：  
-**错位置、错业态、假加盟、盖不住的房租。**
+今年餐饮门店卷到飞起，朋友圈全是「0 加盟费 / 6 个月回本 / 总部全包」。  
+**信一句，亏一套。**
+
+「能做吗？勇哥」干一件很不讨喜的事：
+
+# **在你掏钱之前，先把你劝退。**
+
+勇哥原话放这：
 
 > **勇哥说能做的，不能保证赚钱。**  
 > **勇哥说不能做的，一定亏钱。**
 
-「能做吗？勇哥」把这套判断，收成一次对话能跑完的 **验铺协议**：  
-拍门头、丢地址、说业态——直接给红 / 黄 / 绿，并讲清楚为什么。
+我们把这套判断，做成 Agent 一加载就会用的 **Skill**。  
+不是聊天陪聊。是 **验铺行刑队**。
 
-它不是鸡汤助手，也不是房东话术生成器。  
-它是 **开店前的最后一道闸**。
-
----
-
-## 30 秒体验
-
-```
-你：  [门头照片]
-      浙江台州路桥区腾达路699号
-      加盟全国首家××汉堡，总投入大概60万
-
-哥：  🔴 做不了（至少这笔加盟别签）
-
-      · 「全国首家」= 你是样本不是加盟商
-      · 汉堡属高压赛道，投入已触快招高危区
-      · 同走廊有塔斯汀 / 麦当劳 / 华莱士
-      · 换业态？社区刚需可谈，这套加盟免谈
-```
+<p align="center">
+  <img src="docs/assets/poster-square.png" width="48%" alt="方图海报" />
+  <img src="docs/assets/viral-uncle.jpg" width="48%" alt="viral" />
+</p>
+<p align="center">
+  <img src="docs/assets/viral-x.jpg" width="70%" alt="stop" />
+</p>
 
 ---
 
-## 产品定位
+## 30 秒懂
 
-| | |
-|--|--|
-| **产品名** | 能做吗？勇哥 |
-| **仓库 ID** | `nengzuoma-yongge`（GitHub 仓库名不支持纯中文，见下方说明） |
-| **Skill ID** | `nengzuoma-yongge` |
-| **一句话** | 门头一拍，能做吗？ |
-| **用户** | 想开店 / 已看铺 / 被加盟话术包围的普通人 |
-| **不做什么** | 不保证赚钱、不替代律师会计、不站加盟商一边 |
+| 你丢进来 | 它砸回去 |
+|----------|----------|
+| 门头 / 街景照片 | 楼层？台阶？遮挡？棺材铺？一眼毒打 |
+| 地址（如台州腾达路 699 号） | 高德扫同业 / 学校 / 小区 / 商场 / 大牌 |
+| 「想开奶茶 / 汉堡 / 加盟 60 万」 | **红黄绿 + 为什么 + 换业态** |
 
-### 架构（一句话）
+### 真实气质输出（不是广告话术）
 
 ```text
-看图 + 高德(主) + 百度(备)  ──供血──▶  勇哥规则  ──▶  红黄绿 + 动作
+你：加盟全国首家××汉堡，加盟 19.8 万，总投入 60 万+
+    位置在路桥腾达路，旁边有吾悦
+
+哥：🔴 做不了。至少这笔加盟今天就停。
+
+    1. 「全国首家」= 你是小白鼠，不是加盟商
+    2. 汉堡是中年破产四件套之一
+    3. 同走廊塔斯汀 / 麦当劳 / 华莱士在那，你拿什么打？
+    4. 60 万进去，日保本会把你按在地上摩擦
+
+    类比：第四代汉堡那种故事 —— 开业第 N 天花篮还在，转让贴上了。
 ```
 
-地图只负责事实；**判断权只在方法论**。
+**爽点不在「教你发财」，在「拦你倾家荡产」。**  
+这才是能传播的东西。
 
 ---
 
-## 能力地图
+## 为什么有话题度（给你剪视频用）
 
-| 模块 | 内容 |
+直接抄这些钩子：
+
+| 钩子 | 用法 |
 |------|------|
-| **门头微观** | 楼层、台阶、遮挡、门头识别、装修/未开业迹象 |
-| **商圈供血** | 同业密度、学校/小区/写字楼/商场、大牌贴脸 |
-| **业态匹配** | 位置类型 × 业态矩阵；不适配则给替代方向 |
-| **财务闸门** | 房租铁律、投入与保本直觉（有数就算） |
-| **加盟快诊** | 全国首家、高加盟费、四件套赛道、话术红线 |
-| **交付** | 固定报告结构：结论 → 原因 → 换业态 → 现场确认 |
+| **能做吗？勇哥** | 标题本体，搜索记忆点 |
+| **勇哥说做不了** | 评论区复读、二创金句 |
+| **拍门头 = 验死刑** | 演示视频开场 |
+| **全国首家三个字出现就跑** | 加盟劝退切片 |
+| **别用血汗钱给房东送钱** | 结尾 CTA |
+| **红灯一票否决** | 系列内容结构 |
 
-双地图策略：**不默认全量交叉**（数据高度同类且坐标系不同）；  
-百度用于 **高德失败兜底** 与 **关键大牌争议抽检**。
+### 一句话电梯稿（夸张版，放心说）
+
+> 这是餐饮圈的 **验孕棒**：  
+> 两分钟出结果——**有没有中奖（中招）**。  
+> 红了？恭喜，你刚省下几十万学费。
+
+> 这是开店前的 **行刑队 Skill**：  
+> 地图当法医，勇哥当法官，你的门头当被告。
+
+> 别人教你怎么开店。  
+> 我们教你 **怎么别开**。
 
 ---
 
-## 安装
+## 它到底牛在哪
 
-### 1. 克隆
+```text
+        📱 一张门头照
+              │
+    ┌─────────┴─────────┐
+    ▼                   ▼
+ 看图毒打            高德扫街
+ 台阶/楼层/遮挡      大牌/学校/同业
+    │                   │
+    └─────────┬─────────┘
+              ▼
+        勇哥方法论（唯一大脑）
+              │
+              ▼
+     🔴做不了 / 🟡谨慎 / 🟢罕见
+         + 换业态 + 下一步
+```
+
+- **判断权只在勇哥规则**，地图只是供血，不让算法给你灌「建议开店」迷魂汤  
+- **百度兜底**：高德挂了还能查；大牌有没有贴脸，可再抽一刀  
+- **加盟场景一样杀**：全国首家、天价加盟、汉堡奶茶四件套，默认往红灯踩  
+
+母体方法论社区整理可参考（无官方关联）：  
+[yongge-restaurant-skill](https://github.com/Astro-wen/yongge-restaurant-skill)
+
+---
+
+## 安装（30 秒上车）
 
 ```bash
 git clone https://github.com/turnerzhan/nengzuoma-yongge.git
 ```
 
-### 2. 放入 Agent Skills 目录
+扔进 Agent Skills 目录，例如 Grok：
 
-| 环境 | 路径示例 |
-|------|----------|
-| Grok | `~/.grok/skills/nengzuoma-yongge/` |
-| Claude | 用户/项目 skills 目录 |
-| 通用 | 任何读取 `SKILL.md` frontmatter 的 Agent |
-
-### 3. 运行时依赖
-
-| 依赖 | 级别 |
-|------|------|
-| 多模态（看图） | 必须 |
-| 高德 MCP `amap-maps` | 强推荐 |
-| 百度 MCP `baidu-maps` | 推荐（兜底） |
-| Python + Pillow | 可选（EXIF） |
-
-```bash
-# 可选：读照片 GPS
-pip install pillow
-python scripts/parse_image_location.py your-storefront.jpg
+```text
+~/.grok/skills/nengzuoma-yongge/
 ```
 
-### 4. 触发
+| 依赖 | 要不要 |
+|------|--------|
+| 能看图的模型 | **要**，不然门头白拍 |
+| 高德 MCP | **强推**，没有就瞎 |
+| 百度 MCP | 推荐，兜底 / 抽检 |
+| Pillow | 可选，读照片 GPS |
 
-- 斜杠：`/nengzuoma-yongge`
-- 自然语言：`能做吗`、`勇哥`、`这个铺行不行`、发门头图
+### 怎么喊醒它
+
+- `/nengzuoma-yongge`
+- 「能做吗」
+- 「勇哥看这个铺」
+- 直接砸门头图
 
 ---
 
-## 仓库结构
+## 仓库里有啥
 
 ```text
 nengzuoma-yongge/
-├── SKILL.md                      # Agent 入口（协议）
-├── README.md                     # 你正在读
-├── LICENSE
+├── SKILL.md                 # 行刑协议（Agent 必读）
+├── README.md                # 你正在被洗脑的这一页
 ├── docs/
+│   ├── BRAND.md             # 怎么说话、怎么冲流量
 │   └── assets/
-│       ├── logo.jpg              # 品牌标识
-│       └── banner.jpg            # 封面视觉
-├── references/
-│   ├── yongge-decision-core.md   # 红线 · 选址 · 案例锚点
-│   ├── street-score-auto.md      # 可自动打分项
-│   ├── category-fit-matrix.md    # 位置 × 业态
-│   └── output-template.md        # 输出与语气
-└── scripts/
-    └── parse_image_location.py
+│       ├── logo.jpg         # 砸章 logo
+│       ├── banner.jpg       # 封面大图
+│       ├── viral-uncle.jpg  # 话题封面
+│       ├── viral-x.jpg      # 禁止开店视觉
+│       ├── poster-hero.html # 可导出的横版海报
+│       └── poster-square.html
+├── references/              # 红线 / 街景分 / 业态矩阵 / 输出模板
+└── scripts/parse_image_location.py
 ```
 
----
-
-## 设计原则
-
-1. **劝退优先** — 99% 的人最需要听到「做不了」  
-2. **数据 > 感觉** — 没有 POI / 没有数，就降级并写明  
-3. **短句结论** — 红黄绿必须一眼可读  
-4. **站在普通人** — 不帮房东洗铺，不帮加盟话术圆场  
-5. **可解释** — 每条红灯对应规则或地图事实  
+浏览器打开 `docs/assets/poster-*.html` → 截图 = 现成传播物料。
 
 ---
 
-## 关于仓库中文名
+## 品牌怎么喊（抓流量版）
 
-GitHub **仓库 slug 会剥离汉字**（实测：中文名会被收成 `-` / `---`）。  
-因此：
+| | |
+|--|--|
+| **大名** | 能做吗？勇哥 |
+| **外号** | 验铺行刑队 / 开店验孕棒 / 劝退天花板 |
+| **禁用** | 「官方勇哥」「保证回本」「稳赚」 |
+| **人设** | 站小老板，打加盟商话术，打房东滤镜 |
 
-| 层 | 命名 |
-|----|------|
-| **品牌 / 标题** | 能做吗？勇哥 |
-| **仓库 URL** | `turnerzhan/nengzuoma-yongge` |
-| **Skill `name`** | `nengzuoma-yongge` |
-
-对外传播用中文品牌；工程师克隆用英文 ID。这是平台限制，不是降级。
+详情见 [`docs/BRAND.md`](docs/BRAND.md)。
 
 ---
 
-## 方法论渊源与边界
+## 关于仓库英文名
 
-- 判断框架蒸馏自公开传播的「勇哥餐饮」选址 / 诊断逻辑与社区 skill 整理。  
-- 参考母体（无官方关联）：[Astro-wen/yongge-restaurant-skill](https://github.com/Astro-wen/yongge-restaurant-skill)  
-- **本仓库与「勇哥」本人及原机构无任何官方关系。**  
-- 输出为决策辅助，**不构成投资、法律或会计建议**；责任在使用者。
+GitHub **仓库名吃掉汉字**（实测会变成 `---`）。  
+所以：
+
+- 传播叫 **能做吗？勇哥**  
+- 克隆用 `nengzuoma-yongge`  
+
+别杠，平台的锅。
 
 ---
 
-## 路线图
+## 免责（很重要，但我们说人话）
 
-- [x] v0.1 门头快诊协议 + 高德主链路  
-- [x] 百度兜底配置说明  
-- [x] 品牌视觉与公开仓库  
-- [ ] 更多城市 demo 与案例锚点  
-- [ ] 可选报告 HTML 导出  
-- [ ] 关键红线「双源抽检」开关写进协议默认模板  
-
-欢迎 Issue / PR：案例锚点、矩阵校正、地图适配。
+这是 **决策辅助**，不是投资建议，不是法律意见。  
+绿灯 ≠ 稳赚；红灯 = 方法论上劝你别送。  
+最终签字的是你。  
+与「勇哥」本人及原机构 **无官方关系**。
 
 ---
 
 ## License
 
-[MIT](./LICENSE)
+MIT。拿去改，拿去接，拿去让更多人少亏钱。
 
 ---
 
 <p align="center">
-  <sub>能做吗？勇哥。</sub><br/>
-  <sub>不能做的，别硬开。</sub>
+  <b style="font-size:1.4em">能做吗？勇哥。</b><br/><br/>
+  能做的，蹲点再上。<br/>
+  <b>做不了的 —— 今天就停。</b>
 </p>

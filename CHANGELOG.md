@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.2 — 2026-07-20
+
+- **流量向重包装**：README 话题钩子 / 夸张电梯稿 / 切片结构
+- 视觉加码：砸章 logo、警戒 banner、怒指封面、禁止开店图
+- 可截图海报：`poster-hero.html` / `poster-square.html`
+- BRAND 改为「流量手册」；输出语气允许狠但不造假
+
 ## 0.1.1 — 2026-07-20
 
 - 品牌包装：Logo / Banner、README 升级、BRAND 手册
