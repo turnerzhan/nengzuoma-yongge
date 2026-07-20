@@ -1,114 +1,62 @@
 <p align="center">
-  <img src="docs/assets/logo.png" width="180" alt="能做吗？勇哥" />
+  <img src="docs/assets/logo.png" width="160" alt="能做吗？勇哥" />
 </p>
 
 <h1 align="center">能做吗？勇哥</h1>
 
 <p align="center">
   <b>拍一张门头，3 分钟骂醒你。</b><br/>
-  位置烂 · 业态错 · 加盟坑 —— <b>该红就红，绝不灌鸡汤</b>
+  <b>全量勇哥方法论</b> · 不是精简版
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🔴_做不了-B91C1C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🟡_谨慎-CA8A04?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🟢_罕见能做-15803D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/内容-全量_corpus+cases-111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/地图-高德主·百度备-1F2937?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/话题-勇哥说做不了-dc2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/视觉-Banana_Image2-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agent-Skill-111?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-MIT-0A0A0A?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="docs/assets/cover-banner.jpg" width="100%" alt="封面" />
-</p>
-
-<p align="center">
-  <img src="docs/assets/poster-hero.png" width="100%" alt="中文大字海报" />
+  <img src="docs/assets/cover-banner.jpg" width="100%" alt="cover" />
 </p>
 
 ---
 
-## 先骂一句
+## 重要声明：全量接入，禁止当删减包用
 
-> **别急着加盟。别急着交转让费。别用全家积蓄给房东送钱。**
+本仓库 **完整收录** 上游 [yongge-restaurant-skill](https://github.com/Astro-wen/yongge-restaurant-skill) 的：
 
-「能做吗？勇哥」干一件很不讨喜的事：
+| 目录 | 内容 |
+|------|------|
+| **`corpus/`** | 9 篇全量方法论（诊断 SOP / 选址 / 快招 / 品类 / 金句 / 常识…） |
+| **`cases/`** | 全量失败 + 成功案例库 |
+| **`skill/`** | 风格指引 / 提问树 / 街景 12 项 / 保本线文档 |
+| **`tools/`** | breakeven / quack_score / match_case（+ 本产品扩展） |
 
-# **在你掏钱之前，先把你劝退。**
+Agent 必须按 `SKILL.md` **按需打开全文**，不得只用 `references/` 摘要偷懒。  
+详见 [`THIRD_PARTY.md`](./THIRD_PARTY.md)。
 
-> 勇哥说能做的，不能保证赚钱。  
-> **勇哥说做不了的，一定亏钱。**
+---
 
-不是陪聊。是 **验铺行刑队**。
+## 产品多了什么（在全量之上）
 
-<p align="center">
-  <img src="docs/assets/hook-card.jpg" width="55%" alt="话题封面" />
-  <img src="docs/assets/poster-square.png" width="42%" alt="方图" />
-</p>
+1. **门头快诊入口**：照片 + 地址 → 红黄绿  
+2. **高德主 / 百度备** POI 供血（同业、大牌、学校、商场…）  
+3. **`tools/profit_model.py`**：开店前反推日流水门槛  
+4. **传播壳**：能做吗？勇哥 · 验铺行刑队话术与视觉  
+
+**判断大脑仍是全量勇哥规则 + 案例库 + 算账。**
 
 ---
 
 ## 30 秒懂
 
-| 你丢进来 | 它砸回去 |
-|----------|----------|
-| 门头 / 街景照 | 楼层？台阶？遮挡？棺材铺？毒打 |
-| 地址 | 高德扫同业 / 学校 / 大牌（百度兜底） |
-| 「加盟 60 万全国首家汉堡」 | 🔴 + 为什么 + 今天就停 |
-
 ```text
-你：全国首家××汉堡，总投入 60 万+，吾悦边上
-
-哥：🔴 做不了。这笔加盟今天就停。
-    · 「全国首家」= 你是小白鼠
-    · 汉堡四件套高压区
-    · 同走廊塔斯汀/麦当劳/华莱士，你拿什么打？
+你：门头图 + 地址 + 想加盟/想开啥 + 租与投入
+哥：地图事实 + 保本线/铁律 + 全量 SOP + cases 类比
+    → 🔴做不了 / 🟡谨慎 / 🟢罕见
 ```
 
-**爽点不在教你发财，在拦你倾家荡产。**
-
----
-
-## 标题党武器库（直接抄）
-
-1. 拍一张门头，3 分钟骂醒你  
-2. 勇哥说做不了：这座铺别签  
-3. 全国首家？先把 60 万放下  
-4. 别用全家积蓄给房东送钱  
-5. 高德扫完街，勇哥判死刑  
-6. 餐饮创业反诈：验铺比配方重要  
-
-**电梯稿（狠）**  
-别人教你怎么开店。我们教你 **怎么别开**。  
-这是开店前的 **验孕棒**：两分钟看你中没中招。
-
----
-
-## 架构（一句话）
-
-```text
-门头照 + 地址 + 租/人工/投入
-    → 看图毒打 + 高德(主)/百度(备) 供血
-    → 保本线 / 房租铁律 / 回本压力（算账脚本）
-    → 勇哥方法论唯一大脑
-    → 🔴🟡🟢 + 换业态 + 下一步
-```
-
-### 算账（勇哥会算数，Skill 也必须会）
-
-| 脚本 | 干什么 |
-|------|--------|
-| `scripts/profit_model.py plan` | 开店前：反推日流水门槛 |
-| `scripts/profit_model.py run` | 有流水：保本线 / 达成率 / 月净利 |
-| `scripts/breakeven.py` | 原版保本线计算器 |
-| `scripts/quack_score.py` | 加盟快招风险分 |
-
-公式说明见 `references/profit-model.md`。  
-**有租/投入却不算账 = 不合格输出。**
+爽点：**拦你倾家荡产**，不是灌鸡汤发财。
 
 ---
 
@@ -116,59 +64,67 @@
 
 ```bash
 git clone https://github.com/turnerzhan/nengzuoma-yongge.git
-# → ~/.grok/skills/nengzuoma-yongge/  或其它 Agent skills 目录
+# 整目录放入 Agent Skills（勿只拷 SKILL.md）
 ```
 
 | 依赖 | |
 |------|--|
-| 多模态看图 | 必须 |
+| 多模态看图 | 街景/门头 |
 | 高德 MCP | 强推 |
 | 百度 MCP | 兜底 |
-| Banana Image2 | 仅再生成视觉物料时需要 |
+| Python 3 | tools 算账 / 案例匹配 |
 
-触发：`/nengzuoma-yongge` · 「能做吗」· 「勇哥看这个铺」· 直接砸门头图
+触发：`/nengzuoma-yongge` · 能做吗 · 勇哥 · 开店/加盟/保本/门头照
 
 ---
 
-## 视觉物料（Image2）
-
-| 文件 | 用途 |
-|------|------|
-| `docs/assets/logo.png` | 砸章 Logo（Banana `gpt-image-2`） |
-| `docs/assets/cover-banner.jpg` | 横版封面 |
-| `docs/assets/hook-card.jpg` | 话题方图 |
-| `docs/assets/poster-hero.png` | 中文大字横海报 |
-| `docs/assets/poster-square.png` | 中文方海报 |
-
-重生成：
+## 算账（全量工具）
 
 ```bash
-# 需 projects/qian/.env 里 BANANA_API_KEY
-python scripts/gen_banana_assets.py
+python tools/breakeven.py --daily-revenue 800 --daily-food-cost 250 \
+  --rent 8000 --labor 9000 --investment 350000 --category 奶茶
+
+python tools/quack_score.py --source "抖音" --hq-city 济南 \
+  --total-fee 580000 --direct-stores 2 --years 1 \
+  --promises "零加盟费,6个月回本,总部全包"
+
+python tools/match_case.py --amount 900000 --category 奶茶 --location 县城
+
+python tools/profit_model.py plan --rent 12000 --labor 9000 \
+  --investment 600000 --category 汉堡
 ```
 
 ---
 
-## 仓库 ID 说明
+## 仓库结构
 
-GitHub **仓库名不吃汉字**（会剥成 `-`）。  
-品牌叫 **能做吗？勇哥**，克隆用 `nengzuoma-yongge`。
+```text
+nengzuoma-yongge/
+├── SKILL.md              # 全量路由 + 品牌壳 + 地图扩展
+├── corpus/               # 全量知识库
+├── cases/                # 全量案例
+├── skill/                # 全量工程化文档
+├── tools/                # 全量计算器 + 扩展
+├── references/           # 补充（不得替代 corpus）
+├── docs/assets/          # 传播图
+└── docs/yongge-upstream/ # 上游架构存档
+```
 
 ---
 
 ## 边界
 
-决策辅助，非投资/法律建议。  
-与勇哥本人及原机构 **无官方关系**。  
-方法论可参考社区整理 [yongge-restaurant-skill](https://github.com/Astro-wen/yongge-restaurant-skill)（非官方关联）。
+- 决策辅助，非投资/法律/会计意见  
+- 与勇哥本人及原机构 **无官方关联**  
+- 地图 POI ≠ 真实客流  
 
 ## License
 
-MIT
+MIT（含上游 MIT 内容，见 `THIRD_PARTY.md`）
 
 ---
 
 <p align="center">
   <b>能做吗？勇哥。</b><br/>
-  做不了的 —— <b>今天就停。</b>
+  全量武器库已装填。做不了的 —— 今天就停。
 </p>

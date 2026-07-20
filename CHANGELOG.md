@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.0 — 2026-07-21
+
+- **全量接入**上游 yongge-restaurant-skill：`corpus/` `cases/` `skill/` `tools/`
+- SKILL 重写为全量路由：B/C/D/E/F + G 门头快诊；禁止精简偷懒
+- 新增 `THIRD_PARTY.md`；references 标明不得替代 corpus
+
 ## 0.2.0 — 2026-07-21
 
 - **合入算账模型**：`breakeven.py` / `profit_model.py`（plan|run|iron）/ `quack_score.py`
