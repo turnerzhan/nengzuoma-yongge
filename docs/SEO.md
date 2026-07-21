@@ -18,7 +18,9 @@
 | AI 爬取摘要 | 根目录 `llms.txt` |
 | 规范 URL | 全文统一 `github.com/turnerzhan/nengzuoma-yongge` |
 | 视觉 alt | logo/cover 含中英描述 |
-
+| Search Console 逐步说明 | [`GOOGLE_SEARCH_CONSOLE.md`](./GOOGLE_SEARCH_CONSOLE.md) |
+| 首发文案（公众号/小红书/朋友圈） | [`LAUNCH_POST.md`](./LAUNCH_POST.md) |
+| 落地页 JSON-LD | `docs/index.html` |
 ## GitHub 设置（需你点一次的）
 
 1. **About → Description**（已 API 可同步）：  
