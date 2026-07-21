@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>能做吗？勇哥 · NengZuoMa YongGe — 开店验铺 Agent Skill</title>
+  <meta name="description" content="能做吗？勇哥（NengZuoMa YongGe / nengzuoma-yongge）：原创开店验铺 Agent Skill。餐饮选址、门头诊断、加盟避坑、保本线计算。拍门头，红黄绿，该劝退就劝退。" />
+  <meta name="keywords" content="能做吗勇哥,能做吗？勇哥,nengzuoma-yongge,NengZuoMa,餐饮选址,开店验铺,加盟避坑,保本线,Agent Skill,Claude Skill" />
+  <meta name="author" content="NengZuoMa YongGe" />
+  <link rel="canonical" href="https://github.com/turnerzhan/nengzuoma-yongge" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="能做吗？勇哥 · NengZuoMa YongGe" />
+  <meta property="og:description" content="拍一张门头，3分钟骂醒你。开店选址·加盟避坑·保本线算账。GitHub: nengzuoma-yongge" />
+  <meta property="og:url" content="https://github.com/turnerzhan/nengzuoma-yongge" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/turnerzhan/nengzuoma-yongge/master/docs/assets/cover-banner.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="能做吗？勇哥 · NengZuoMa YongGe" />
+  <meta name="twitter:description" content="开店验铺 Agent Skill · 选址 / 加盟避坑 / 保本线" />
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/turnerzhan/nengzuoma-yongge/master/docs/assets/cover-banner.jpg" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "能做吗？勇哥",
+    "alternateName": ["NengZuoMa YongGe", "nengzuoma-yongge", "能做吗勇哥"],
+    "applicationCategory": "DeveloperApplication",
+    "operatingSystem": "Any",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "description": "Original Agent Skill for storefront diagnosis, site selection, franchise risk scoring and breakeven calculation for China small business and F&B.",
+    "url": "https://github.com/turnerzhan/nengzuoma-yongge",
+    "downloadUrl": "https://github.com/turnerzhan/nengzuoma-yongge",
+    "license": "https://opensource.org/licenses/MIT",
+    "keywords": "餐饮选址,开店验铺,加盟避坑,保本线,Agent Skill,nengzuoma-yongge"
+  }
+  </script>
+  <style>
+    :root { --bg:#0a0a0a; --red:#b91c1c; --gold:#facc15; --muted:#a3a3a3; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: var(--bg); color: #fafafa; line-height: 1.6;
+    }
+    .wrap { max-width: 720px; margin: 0 auto; padding: 48px 20px 80px; }
+    .logo { width: 96px; height: 96px; border-radius: 20px; display: block; margin: 0 auto 20px; object-fit: cover; border: 2px solid #333; }
+    h1 { text-align: center; font-size: 2rem; margin: 0 0 8px; letter-spacing: 1px; }
+    .en { text-align: center; color: var(--gold); font-weight: 700; margin-bottom: 16px; }
+    .tagline { text-align: center; font-size: 1.15rem; margin-bottom: 28px; }
+    .badge {
+      display: inline-block; background: var(--red); color: #fff; font-weight: 800;
+      padding: 6px 12px; margin: 4px; border-radius: 4px; font-size: 0.85rem;
+    }
+    .center { text-align: center; margin: 20px 0 32px; }
+    .card {
+      background: #141414; border: 1px solid #2a2a2a; border-radius: 12px;
+      padding: 20px 22px; margin-bottom: 16px;
+    }
+    h2 { font-size: 1.1rem; margin: 0 0 10px; color: var(--gold); }
+    ul { margin: 0; padding-left: 1.2rem; color: #e5e5e5; }
+    a.cta {
+      display: block; text-align: center; background: var(--gold); color: #111;
+      font-weight: 900; text-decoration: none; padding: 16px 20px; border-radius: 10px;
+      margin: 28px 0 12px;
+    }
+    a.secondary { color: var(--muted); text-align: center; display: block; font-size: 0.9rem; }
+    footer { margin-top: 40px; text-align: center; color: #666; font-size: 0.8rem; }
+    code { background: #222; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <img class="logo" src="assets/logo.png" alt="能做吗？勇哥 NengZuoMa YongGe logo" width="96" height="96" />
+    <h1>能做吗？勇哥</h1>
+    <p class="en">NengZuoMa YongGe · nengzuoma-yongge</p>
+    <p class="tagline">拍一张门头，3 分钟骂醒你。<br/>开店选址 · 加盟避坑 · 保本线算账</p>
+    <div class="center">
+      <span class="badge">🔴 做不了</span>
+      <span class="badge" style="background:#ca8a04">🟡 谨慎</span>
+      <span class="badge" style="background:#15803d">🟢 罕见</span>
+    </div>
+
+    <div class="card">
+      <h2>这是什么</h2>
+      <p style="margin:0;color:#ddd">原创 <strong>Agent Skill</strong>：帮小生意在掏钱前做门头验铺、选址诊断、加盟风险与保本线计算。支持 Claude / Cursor / Grok 等可加载 Skill 的 Agent。</p>
+    </div>
+
+    <div class="card">
+      <h2>核心能力</h2>
+      <ul>
+        <li>门头 / 街景红黄绿诊断</li>
+        <li>高德主 + 百度备 POI 商圈供血</li>
+        <li>保本线 / 房租铁律 / 回本压力</li>
+        <li>加盟快招评分与案例库类比</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>安装</h2>
+      <p style="margin:0 0 8px"><code>git clone https://github.com/turnerzhan/nengzuoma-yongge.git</code></p>
+      <p style="margin:0;color:#aaa;font-size:0.9rem">将整目录放入 Agent 的 skills 路径，触发词：能做吗 / 勇哥 / 验铺</p>
+    </div>
+
+    <a class="cta" href="https://github.com/turnerzhan/nengzuoma-yongge">打开 GitHub 仓库 →</a>
+    <a class="secondary" href="https://github.com/turnerzhan/nengzuoma-yongge#english">English README</a>
+    <a class="secondary" href="https://raw.githubusercontent.com/turnerzhan/nengzuoma-yongge/master/llms.txt">llms.txt（AI 检索）</a>
+
+    <footer>
+      独立原创软件 · MIT · 决策辅助非投资建议<br/>
+      与任何网红或培训机构无官方关联<br/>
+      © NengZuoMa YongGe
+    </footer>
+  </div>
+</body>
+</html>

@@ -27,17 +27,26 @@
 3. **Social preview**：上传 `docs/assets/cover-banner.jpg`
 4. **Website**（可选）：若有独立站/飞书文档，填 HTTPS 链接
 
+## GitHub Pages（可选，利于收录）
+
+仓库 Settings → Pages → Source：**Deploy from branch** → `master` → folder **`/docs`**  
+启用后访问：
+
+`https://turnerzhan.github.io/nengzuoma-yongge/`
+
+落地页：`docs/index.html`（含 JSON-LD / Open Graph）。
+
 ## 站外（真正影响 Google 收录）
 
 GitHub 仓库 **不会自动排在 Google 第一**。建议：
 
-1. **Google Search Console** 网址前缀提交：  
-   `https://github.com/turnerzhan/nengzuoma-yongge`
-2. 在 **朋友圈/小红书/即刻/即论坛** 发带 **完整 GitHub 链接** 的帖（外链信号）
-3. 写一篇独立博客/语雀/公众号，标题含「能做吗勇哥」「餐饮选址 Agent Skill」，正文锚链到仓库
-4. 给仓库 **Star / Fork** 拉真实互动（冷启动）
-5. 发布 **GitHub Release**（v1.1.0）带中文 Release notes（可索引）
-
+1. **Google Search Console** 提交：  
+   - `https://github.com/turnerzhan/nengzuoma-yongge`  
+   - 以及 Pages：`https://turnerzhan.github.io/nengzuoma-yongge/`（若开启）
+2. 在 **朋友圈/小红书/即刻/论坛** 发带 **完整链接** 的帖
+3. 语雀/公众号文章标题含「能做吗勇哥」「餐饮选址 Agent Skill」
+4. 仓库 **Star** + 正式 **Release**（v1.1.0 已提供 notes）
+5. 对外统一话术：中文名 + `nengzuoma-yongge` + 规范 URL
 ## 生成式引擎优化（GEO）
 
 - 保持 `llms.txt` 与 README FAQ 同步  

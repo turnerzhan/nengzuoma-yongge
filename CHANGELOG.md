@@ -3,8 +3,10 @@
 ## 1.1.0 — 2026-07-21
 
 - **SEO / GEO**：README 中英关键词、FAQ、`llms.txt`、`docs/SEO.md`
-- **产品叙事**：定位为原创 Agent Skill「能做吗？勇哥 / NengZuoMa YongGe」
-- 仓库描述与 Topics 对齐可检索品牌名
+- **落地页**：`docs/index.html`（Open Graph + JSON-LD）
+- **引用与协作**：`CITATION.cff` · `CONTRIBUTING.md` · `DISCLAIMER.md`
+- **产品叙事**：原创 Agent Skill「能做吗？勇哥 / NengZuoMa YongGe」
+- 仓库 Description / Topics / Release v1.1.0
 
 ## 1.0.0 — 2026-07-21
 

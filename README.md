@@ -39,7 +39,10 @@ franchise anti-scam, storefront diagnosis, 验铺, 做不了
   <a href="#安装"><b>安装</b></a> ·
   <a href="#产品能做什么"><b>功能</b></a> ·
   <a href="#常见问题-faq"><b>FAQ</b></a> ·
-  <a href="https://github.com/turnerzhan/nengzuoma-yongge/stargazers">⭐ Star</a>
+  <a href="docs/SEO.md"><b>SEO</b></a> ·
+  <a href="DISCLAIMER.md"><b>免责</b></a> ·
+  <a href="https://github.com/turnerzhan/nengzuoma-yongge/stargazers">⭐ Star</a> ·
+  <a href="https://github.com/turnerzhan/nengzuoma-yongge/releases">Release</a>
 </p>
 
 ---
