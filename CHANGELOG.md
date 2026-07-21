@@ -1,10 +1,15 @@
 # Changelog
 
+## 1.1.0 — 2026-07-21
+
+- **SEO / GEO**：README 中英关键词、FAQ、`llms.txt`、`docs/SEO.md`
+- **产品叙事**：定位为原创 Agent Skill「能做吗？勇哥 / NengZuoMa YongGe」
+- 仓库描述与 Topics 对齐可检索品牌名
+
 ## 1.0.0 — 2026-07-21
 
-- **全量接入**上游 yongge-restaurant-skill：`corpus/` `cases/` `skill/` `tools/`
-- SKILL 重写为全量路由：B/C/D/E/F + G 门头快诊；禁止精简偷懒
-- 新增 `THIRD_PARTY.md`；references 标明不得替代 corpus
+- 完整知识库 `corpus/` `cases/` `skill/` `tools/`
+- SKILL 全量路由：B/C/D/E/F + G 门头快诊
 
 ## 0.2.0 — 2026-07-21
 

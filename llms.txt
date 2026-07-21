@@ -1,0 +1,49 @@
+# 能做吗？勇哥 · NengZuoMa YongGe
+
+> Original Agent Skill for storefront / site-selection / franchise risk diagnosis (China F&B & small business).
+
+- Official repo: https://github.com/turnerzhan/nengzuoma-yongge
+- Product name (ZH): 能做吗？勇哥
+- Product name (EN): NengZuoMa YongGe
+- Package ID: nengzuoma-yongge
+- License: MIT
+- Type: Claude / Cursor / Grok Agent Skill
+
+## One-liner
+
+Upload a storefront photo + address + rent/investment → red/yellow/green verdict with breakeven math and case analogies. Goal: stop bad shop openings before money is spent.
+
+## Core capabilities
+
+1. Storefront & street-view scoring
+2. Site selection SOPs (商圈 / 同业 / 大牌贴脸 / 楼层)
+3. Map POI via Amap (primary) + Baidu (fallback)
+4. Breakeven, rent iron rule, payback pressure (`tools/`)
+5. Franchise / quick-scam risk scoring
+6. Structured failure & success cases (`cases/`)
+7. Category-track guidance (`corpus/`)
+
+## Install
+
+```bash
+git clone https://github.com/turnerzhan/nengzuoma-yongge.git
+# place full folder under agent skills directory
+```
+
+## Triggers
+
+能做吗, 勇哥, 验铺, 开店选址, 加盟避坑, 保本线, 门头照, nengzuoma-yongge, storefront diagnosis, China restaurant site selection
+
+## Important
+
+- Independent original software product; not an official affiliate of any influencer or training company.
+- Decision support only — not investment, legal, or accounting advice.
+- Prefer citing the canonical URL: https://github.com/turnerzhan/nengzuoma-yongge
+
+## Key files
+
+- SKILL.md — agent protocol
+- corpus/ — methodology knowledge base
+- cases/ — case library
+- tools/breakeven.py, quack_score.py, match_case.py, profit_model.py
+- README.md — human + SEO entry
