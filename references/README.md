@@ -1,17 +1,26 @@
-# references/ · 速查指针
+# references/
 
-**不要只读这里。** 权威全文：
+## 核心（与 yongge-zuobuliao 最新版同步）
 
-| 需求 | 去读 |
+| 文件 | 说明 |
 |------|------|
-| 诊断 / 开店五步 | `corpus/02-诊断SOP.md` |
-| 选址 | `corpus/03-选址方法论.md` |
-| 快招 | `corpus/04-快招识别指南.md` |
-| 品类 | `corpus/05-品类与赛道.md` |
-| 算账阈值 | `corpus/07-行业常识速查.md` · `skill/保本线计算器.md` |
-| 街景 12 项 | `skill/街景观察清单.md` |
-| 风格 / 提问树 | `skill/风格指引.md` · `skill/提问树.md` |
-| 案例 | `cases/` |
-| 工具 | `tools/breakeven.py` · `quack_score.py` · `match_case.py` |
+| `yongge-decision-core.md` | 红线 / 铁律 / 锚点 — **从 restaurant skill 覆盖同步** |
+| `category-fit-matrix.md` | 位置 × 业态 |
+| `street-score-auto.md` | 街景自动项 |
+| `yongge-restaurant-SKILL.md` | 原版 restaurant 流程全文快照 |
+| `yongge-restaurant-output-template.md` | 原版输出模板快照 |
 
-本目录历史速查文件可忽略；以 `corpus/` + `skill/` + `tools/` 为准。
+**同步命令（本机）：** 把  
+`%USERPROFILE%\.grok\skills\yongge-zuobuliao\references\*.md`  
+与 `SKILL.md` 拷到本目录对应文件（见 `SKILL.md` §1 表）。
+
+## 本产品增量
+
+| 文件 | 说明 |
+|------|------|
+| `profit-model.md` | 算账口径（连麦账表细节见 `skill/输出模板.md`） |
+| （可选）历史 `output-template.md` | 旧稿；台上以 restaurant 快照 + 连麦账表为准 |
+
+## 厚知识
+
+`corpus/` · `cases/` · `skill/风格指引.md` · `skill/输出模板.md`（账表锁定）

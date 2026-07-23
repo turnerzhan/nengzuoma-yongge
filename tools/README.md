@@ -14,6 +14,10 @@ python tools/breakeven.py plan --rent 12000 --labor 9000 \
 # 房租铁律
 python tools/breakeven.py iron --rent 10000
 
+# 同能力备用（历史 profit_model，与 breakeven plan/run 并存）
+python tools/profit_model.py plan --rent 12000 --labor 9000 --investment 600000 --category 汉堡
+python tools/profit_model.py run --daily-revenue 800 --rent 8000 --labor 9000 --category 奶茶
+
 # 快招 / 案例
 python tools/quack_score.py --source "抖音" --hq-city 台州 \
   --total-fee 600000 --direct-stores 1 --years 0.5 --promises "全国首家"

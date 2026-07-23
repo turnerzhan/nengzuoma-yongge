@@ -96,6 +96,29 @@ def calc(
     if daily_revenue < iron["iron_daily_revenue_target"] * 0.8:
         flags.append("🔴 日流水远低于房租铁律目标")
 
+    # 连麦账表（对齐直播间「这家餐饮店能救吗？」· 单位：元/天）
+    rent_d = rent / 30
+    labor_d = labor / 30
+    util_d = utilities / 30
+    fixed_d = rent_d + labor_d + util_d
+    gross_d = daily_revenue * gross_margin
+    profit_d = gross_d - fixed_d
+    board = {
+        "title": "这家餐饮店能救吗？",
+        "unit": "元/天",
+        "现状": {
+            "营业额/天": round(daily_revenue, 2),
+            "毛利率": round(gross_margin, 4),
+            "毛利/天": round(gross_d, 2),
+            "房租/天": round(rent_d, 2),
+            "人工/天": round(labor_d, 2),
+            "水电/物业/天": round(util_d, 2),
+            "固定成本/天": round(fixed_d, 2),
+            "保本线/天": round(daily_breakeven, 2),
+            "纯利/天": round(profit_d, 2),
+        },
+    }
+
     return {
         "mode": "run",
         "gross_margin": round(gross_margin, 4),
@@ -110,6 +133,7 @@ def calc(
         "rent_iron_law": iron,
         "risk_flags": flags,
         "yongge_verdict": verdict,
+        "lianmai_board": board,
     }
 
 
