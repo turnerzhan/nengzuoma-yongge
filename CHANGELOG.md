@@ -1,45 +1,15 @@
-# Changelog
+﻿# Changelog
+
+## 1.2.0 — 2026-07-24
+
+- **ponytail 瘦身**：删除 `scripts/` 双份、SEO 文档堆、references 正文、architecture、海报 HTML、CITATION
+- 工具统一：`tools/breakeven.py` 支持 run/plan/iron（兼容旧无参）
+- 发布说明合并为 `docs/PUBLISH.md`；sitemap 精简
 
 ## 1.1.0 — 2026-07-21
 
-- **SEO / GEO**：README 中英关键词、FAQ、`llms.txt`、`docs/SEO.md`
-- **落地页**：`docs/index.html`（Open Graph + JSON-LD）
-- **引用与协作**：`CITATION.cff` · `CONTRIBUTING.md` · `DISCLAIMER.md`
-- **产品叙事**：原创 Agent Skill「能做吗？勇哥 / NengZuoMa YongGe」
-- 仓库 Description / Topics / Release v1.1.0
+- SEO/GEO 包装、Pages、Release、原创产品叙事
 
 ## 1.0.0 — 2026-07-21
 
-- 完整知识库 `corpus/` `cases/` `skill/` `tools/`
-- SKILL 全量路由：B/C/D/E/F + G 门头快诊
-
-## 0.2.0 — 2026-07-21
-
-- **合入算账模型**：`breakeven.py` / `profit_model.py`（plan|run|iron）/ `quack_score.py`
-- 新增 `references/profit-model.md`；输出强制【算账】块
-- 主流程：位置诊断 + 保本线/房租铁律/回本压力并行
-
-## 0.1.3 — 2026-07-20
-
-- 视觉改走 **Banana 中转站 Image2（gpt-image-2）**
-- 删除风景/写实街景类旧图，只留砸章/话题/中文海报
-- 新增 `scripts/gen_banana_assets.py`（可重跑）
-
-## 0.1.2 — 2026-07-20
-
-- **流量向重包装**：README 话题钩子 / 夸张电梯稿 / 切片结构
-- 视觉加码：砸章 logo、警戒 banner、怒指封面、禁止开店图
-- 可截图海报：`poster-hero.html` / `poster-square.html`
-- BRAND 改为「流量手册」；输出语气允许狠但不造假
-
-## 0.1.1 — 2026-07-20
-
-- 品牌包装：Logo / Banner、README 升级、BRAND 手册
-- 明确 GitHub 仓库 slug 与中文品牌分层命名
-- 叙述升级：定位「开店前最后一道闸」
-
-## 0.1.0 — 2026-07-20
-
-- 首发：门头快诊协议 + 勇哥决策核 references
-- 高德主链路 / 百度兜底约定
-- EXIF 可选脚本
+- 完整知识库 corpus/cases/skill/tools
