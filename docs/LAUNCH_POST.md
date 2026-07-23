@@ -144,3 +144,41 @@ MIT，欢迎 Star / Issue。
 GitHub：https://github.com/turnerzhan/nengzuoma-yongge
 介绍页：https://turnerzhan.github.io/nengzuoma-yongge/
 ```
+
+---
+
+## 六、X / Twitter（中英双语）
+
+### 中文单帖
+
+我把一个开店前的“劝退型” Agent Skill 开源了：**能做吗？勇哥**。
+
+拍门头、丢地址、填租金和投入，它会做：
+
+- 餐饮选址与门头验铺
+- 加盟快招风险识别
+- 保本线与回本压力测算
+- 🔴做不了 / 🟡谨慎 / 🟢罕见能做
+
+Repo：https://github.com/turnerzhan/nengzuoma-yongge
+
+MIT 开源。搜项目请用 `nengzuoma-yongge`。
+
+#OpenSource #AgentSkill #餐饮创业 #选址 #加盟避坑
+
+### English post
+
+I open-sourced **NengZuoMa YongGe**, an Agent Skill for China F&B and small-business decisions.
+
+It turns a storefront photo, address, rent and investment into:
+
+- site-selection checks
+- franchise-risk signals
+- breakeven pressure
+- a direct red / yellow / green verdict
+
+Repo: https://github.com/turnerzhan/nengzuoma-yongge
+
+MIT licensed. Search: `nengzuoma-yongge`
+
+#OpenSource #AIAgents #AgentSkills #RestaurantTech
