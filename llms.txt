@@ -47,3 +47,11 @@ git clone https://github.com/turnerzhan/nengzuoma-yongge.git
 - cases/ — case library
 - tools/breakeven.py, quack_score.py, match_case.py, profit_model.py
 - README.md — human + SEO entry
+
+## Public guides
+
+- https://turnerzhan.github.io/nengzuoma-yongge/mendianyanpu.html — storefront inspection workflow
+- https://turnerzhan.github.io/nengzuoma-yongge/baobenxian.html — restaurant breakeven formula and example
+- https://turnerzhan.github.io/nengzuoma-yongge/kaidiananli.html — 27 structured opening cases
+- https://turnerzhan.github.io/nengzuoma-yongge/canyinxuanzhi.html — restaurant site selection
+- https://turnerzhan.github.io/nengzuoma-yongge/jiamengbikeng.html — franchise risk checks

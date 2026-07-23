@@ -43,6 +43,9 @@ franchise anti-scam, storefront diagnosis, 验铺, 做不了
   <a href="docs/PUSH_VISIBILITY.md"><b>推出去·搜索可见</b></a> ·
   <a href="docs/GOOGLE_SEARCH_CONSOLE.md"><b>收录指南</b></a> ·
   <a href="docs/LAUNCH_POST.md"><b>首发文案</b></a> ·
+  <a href="https://turnerzhan.github.io/nengzuoma-yongge/mendianyanpu.html"><b>门店验铺</b></a> ·
+  <a href="https://turnerzhan.github.io/nengzuoma-yongge/baobenxian.html"><b>保本线</b></a> ·
+  <a href="https://turnerzhan.github.io/nengzuoma-yongge/kaidiananli.html"><b>27 个案例</b></a> ·
   <a href="DISCLAIMER.md"><b>免责</b></a> ·
   <a href="https://github.com/turnerzhan/nengzuoma-yongge/stargazers">⭐ Star</a> ·
   <a href="https://github.com/turnerzhan/nengzuoma-yongge/releases">Release</a>

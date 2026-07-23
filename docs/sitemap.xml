@@ -24,4 +24,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://turnerzhan.github.io/nengzuoma-yongge/baobenxian.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://turnerzhan.github.io/nengzuoma-yongge/mendianyanpu.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://turnerzhan.github.io/nengzuoma-yongge/kaidiananli.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
